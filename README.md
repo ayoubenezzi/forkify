@@ -1,2 +1,3 @@
-# forkify
-reCoded By Me! © Copyright by Jonas Schmedtmann. Used for learning, Welcome to "forkify"
+# forkify Project
+
+Recipe application with custom recipe uploads.
