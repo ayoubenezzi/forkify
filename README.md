@@ -1,3 +1,2 @@
-# forkify Project
-
-Recipe application with custom recipe uploads.
+# forkify
+re-Coded from the Course "The Complete JavaScript Course From Zero to Expert" From Udemy
